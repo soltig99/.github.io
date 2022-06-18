@@ -1,0 +1,24 @@
+.title {
+    color: #02ccba;
+    text-align: center;
+  }
+  .subtitle{
+    text-align:center;
+  }
+  .area-box{
+    text-align: center;
+  }
+  .area-box p{
+    font-size:30px;
+  }
+  .area-box a{
+    font-size:20px;
+    display:inline-block;
+  }
+  .padri{
+    padding-right:20px;
+  }
+  .area_south{
+    margin-top:50px;
+
+  }
